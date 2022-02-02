@@ -1927,3 +1927,12 @@ SkySphereBlueprint
 [2022.02.02-14.12.35:805][827]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
 [2022.02.02-14.12.35:824][827]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
 [2022.02.02-14.12.35:849][828]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2022.02.02-14.17.28:490][947]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2022.02.02-14.17.28:930][947]LogSavePackage: Moving 'D:/github/ProjectEcole/Gravity_Face/Saved/FirstPersonExampleMap_Auto39848C9A2404CF02DEBC9908C67492173.tmp' to 'D:/github/ProjectEcole/Gravity_Face/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto3.umap'
+[2022.02.02-14.17.28:933][947]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.460
+[2022.02.02-14.17.28:933][947]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.460
+[2022.02.02-14.17.28:933][947]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter] ([1] browsable assets)...
+[2022.02.02-14.17.28:988][947]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter]
+[2022.02.02-14.17.28:988][947]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter]
+[2022.02.02-14.17.29:025][947]LogSavePackage: Moving 'D:/github/ProjectEcole/Gravity_Face/Saved/FirstPersonCharacter_Auto3CE2D121A4F65717DC5AEDDB31D53D59E.tmp' to 'D:/github/ProjectEcole/Gravity_Face/Saved/Autosaves/Game/FirstPersonBP/Blueprints/FirstPersonCharacter_Auto3.uasset'
+[2022.02.02-14.17.29:026][947]LogFileHelpers: Auto-saving content packages took 0.093
